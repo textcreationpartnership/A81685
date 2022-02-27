@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration delivered into the House of Lords, by Mr: Abraham Dowcet, on Monday the 3 of July, 1648. Against Major Edward Rolph whom hee charges to have laine in waite three houres to have pistold the King. With his speech at the barre in the House of Peers; and the Lords order for tryall of Major Rolph. And severall orders of the House of Commons for apprehending delinquents.</title>
+            <author>Dowcet, Abraham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81685</idno>
+            <idno type="STC">Wing D2054</idno>
+            <idno type="STC">Thomason E450_28</idno>
+            <idno type="STC">ESTC R205244</idno>
+            <idno type="EEBO-CITATION">99864661</idno>
+            <idno type="PROQUEST">99864661</idno>
+            <idno type="VID">161916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81685)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161916)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E450[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration delivered into the House of Lords, by Mr: Abraham Dowcet, on Monday the 3 of July, 1648. Against Major Edward Rolph whom hee charges to have laine in waite three houres to have pistold the King. With his speech at the barre in the House of Peers; and the Lords order for tryall of Major Rolph. And severall orders of the House of Commons for apprehending delinquents.</title>
+                  <author>Dowcet, Abraham.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for A.H. n[e]er Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rolph, Edmund --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Assassintation attempt, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161916:1" rendition="simple:additions"/>
+            <p>A DECLARATION Delivered into the Houſe of Lords, by Mr: <hi>Abraham Dowcet,</hi> on Monday the 3 of <hi>July,</hi> 1648. Againſt Major <hi>Edward Rolph</hi> whom hee charges to have laine in waite three houres to have piſtold the King.</p>
+            <p>With his ſpeech at the Barre in the Houſe of Peers; And the Lords Order for Tryall of Major <hi>Rolph.</hi>
+            </p>
+            <p>And ſeverall ORDERS of the Houſe of Commons for apprehending Delinquents.</p>
+            <figure>
+               <figDesc>depiction of King Charles I on his throne</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> Printed for A. H. n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Pye-corner, <add>July 4<hi rend="sup">th</hi>
+               </add> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:161916:2"/>
+            <pb n="1" facs="tcp:161916:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>the English royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Die Lunae 3 July, 1648.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>R: <hi>Abraham Dowcet,</hi> being brought by the Keeper of <hi>Peter-Houſe,</hi> where hee is a priſoner, was by Order of the Houſe of <hi>Peeres,</hi> called to the <hi>Lords</hi> Barre, to give in evidence againſt Major <hi>Edward Rolph,</hi> concerning the buſineſſe wherein Mr. <hi>Richard Osburne</hi> accu<g ref="char:EOLhyphen"/>ſeth him to have had a deſigne to have taken away the Kings life.</p>
+            <p>Mr: <hi>Dowcet</hi> being at the Barre, The Right Honourable the Lord <hi>Hundſdon</hi> (by Order of the Houſe of Lords,) asked him what hee could ſay concerning any thing that hee
+<pb n="2" facs="tcp:161916:3"/> knew of a Deſigne by Major <hi>Rolph</hi> to take away the life of the <hi>King:</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>Mr. <hi>Abraham Dowcets</hi> Speech before the Lords in Parliament aſſembled, the 3 of <hi>July</hi> 1648.</head>
+                        <opener>
+                           <salute>My Lords,</salute>
+                        </opener>
+                        <p>I Humbly deſire your Lordſhips favourable conſtructi<g ref="char:EOLhyphen"/>on towards me, in that I cannot deliver my ſelfe in good language, being that I am not an <hi>En<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>l<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſh m<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n;</hi> And therefore I doe deſire your Honourr: that you will bee pleaſed to give mee leave to deliver in writing, what I ſhall teſtifie upon Oath, in this buſineſſe propounded to mee by your Honours.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>The Lords Ordered that according as was deſired by Mr.</hi> Abraham Dowcet, <hi>he ſhould deliver in the caſe in paper, under his hand-writing, upon Oath.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration_before_the_House_of_Lords">
+                        <head>A Declaration delivered into the Houſe of Lords againſt Major <hi>Edward Rolph,</hi> July 3. 1648. <g ref="char:V">Ʋ</g>nder the hand-writing of Mr. <hi>Abraham Dowcet,</hi> concerning the deſigne a<g ref="char:EOLhyphen"/>gainſt the King.</head>
+                        <opener>
+                           <salute>My Lords,</salute>
+                        </opener>
+                        <p>I Am ready to make Oath that Mr. <hi>Richard Osburn,</hi> told me, the Kings perſon was in danger, and that
+<pb n="3" facs="tcp:161916:3"/> the ſaid Major <hi>Rolph,</hi> had a deſigne for conveying his Majeſties perſon to ſome place of ſecreſie, where on<g ref="char:EOLhyphen"/>ly three ſhould goe with him, and where they might diſpoſe of his Majeſties perſon as they ſh<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uld think fit, Which informations from Mr. <hi>Osburn,</hi> and the aſſurance I had of his Majeſties inten<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ions forthwith to come to his Parliament, was the cauſe of my in<g ref="char:EOLhyphen"/>gagement in this buſineſſe.</p>
+                        <p>I am ready likewiſe to depoſe, that the ſaid <hi>Rolph</hi> came to m<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e, when I was a priſoner in the Caſtle, and in a jearing manner asked mee why the King came not down according to his appointment<g ref="char:punc">▪</g> And then in great indignation and fury ſaid he waited three houres under the new Plat <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>orm, with a good piſtoll ready charged, to have received him if hee had come,</p>
+                        <closer>
+                           <signed>Your Lordſhips humble ſervant, <hi>Abraham Dowcet.</hi>
+                           </signed>
+                           <dateline>Weſtminſter <date>the 3 of July, 1648.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Mr. <hi>Abraham Dowcet,</hi> delivered this upon Oath, to bee all truth, before their Lordſhips.</p>
+         </div>
+         <div type="letter">
+            <head>Major Rolphs Letter to the Lords.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>KNowing my ſelf (I ſpeaking in the preſence of that God who ſearcheth all hearts) to be ſo perfectly clear and innocent of that foule and horrid crime charged upon me, that I abhorre the very thoughts of it: Earneſtly de<g ref="char:EOLhyphen"/>ſiring an opportunity of appearing for vindication of my innocency, or what ever elſe mal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce in wicked men can lay againſt me; reſting fully aſſured that whatſoever a<g ref="char:EOLhyphen"/>ward I ſhall find at the hands of men, I ſhall injoy the
+<pb n="4" facs="tcp:161916:4"/> happineſſe of an upright and peaceable conſcience with the ſame God, in whoſe preſence I ſtand.</p>
+            <closer>
+               <signed>Edward Rolph.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <opener>
+               <dateline>
+                  <date>Die Lunae 3 of July. 1648.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords in Parliament, That it be referred to the Kings learn<g ref="char:EOLhyphen"/>ed Councell to bring in an impeachment of High-Treaſon, againſt Major <hi>Edward Rolph.</hi>
+            </p>
+            <p>BY vertue of an Order of the Houſe of Commons, Theſe are to require you, your Deputy or Depu<g ref="char:EOLhyphen"/>ties forthwith to make repaire to the abodes or dwel<g ref="char:EOLhyphen"/>ings of Mr: <hi>Richard Bankes,</hi> and Mris: <hi>Mary Hanmer,</hi> and them there, or where they may be found to appre<g ref="char:EOLhyphen"/>hend and bring to the Houſe of Commons as Delin<g ref="char:EOLhyphen"/>quents to anſwer their contempt and breach of the pri<g ref="char:EOLhyphen"/>viledge of Parliament, in breaking open or cauſing to be broken open the chamber doors of Mr. <hi>Robert Charlton</hi> a Member of the ſaid Houſe, taking away his goods, and forceably conveying away the body of <hi>Francis Charlton</hi> his Ward, and his Servants, even ſitting the Houſe, and Mr. <hi>Charlton</hi> then attending in the Houſe the publique ſervice of the Kingdome. Theſe are further to require (if need be) all Mayors Sheriffes, Juſtices of Peace, Conſtables and all other His Majeſties Officers and loving Subjects (in break<g ref="char:EOLhyphen"/>ing open doores locks or any place or places (to bee aiding to the Serjeants Deputies in the execution of
+<pb n="5" facs="tcp:161916:4"/> this warrant, And for ſo doing, this ſhal be your War<g ref="char:EOLhyphen"/>rant.</p>
+            <closer>
+               <signed>William Lenthall Speaker.</signed>
+            </closer>
+            <trailer>To <hi>Edward Birkhead</hi> Eſq; Serjeant at Armes attend<g ref="char:EOLhyphen"/>ing on this Houſe, his Deputie and Deputies.</trailer>
+            <closer/>
+            <postscript>
+               <p>I doe nominate and appoint <hi>Marmaduke Sanders Edm. Cooper</hi> and <hi>Richard Action</hi> my lawfull Deputies for the execution of this Warrant</p>
+               <closer>
+                  <signed>
+                     <hi>Ed. Birkehead</hi> Serjeant at Armes.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="Parliamentary_order">
+            <p>ORdered by the Commons Aſſembled in Parliament, That <hi>Mr. Richard Bancks</hi> a Mercer or Silke-man at the inner Temple-gate, and Mris. <hi>Mary Hanmer</hi> widow, and all other perſon or perſons in whoſe cuſtody the body of <hi>Francis Charlton,</hi> an Infant, now is, doe forthwith make reſtitution of the body of the ſaid <hi>Francis Charlton,</hi> to Mr. <hi>Robert Charlton</hi> a Member of this houſe, and Guardi<g ref="char:EOLhyphen"/>an to the ſaid child, he having been force<g ref="char:EOLhyphen"/>ably taken out of his cuſtody, whilſt he was ſitting in the Houſe of Commons upon the publique ſervice of the Kingdome, And that the Serjeant at Armes attending on this Houſe doe forthwith make ſearch after the ſaid <hi>Francis Charlton,</hi> and ſeize and apprehend him whereſoever hee ſhall bee found, and
+<pb n="6" facs="tcp:161916:5"/> bring him, and reſtore him to Mr. <hi>Robert Charlton.</hi>
+            </p>
+            <closer>
+               <signed>Henry Elſyng Cler. Par. Dom Com.</signed>
+            </closer>
+            <trailer>To <hi>Edward Birkhead</hi> Eſq; Serjeant at Armes attending on the Houſe of Commons, his Deputy or Deputies.</trailer>
+         </div>
+         <div type="Parliamentary_resolution">
+            <opener>
+               <dateline>
+                  <date>Die Lunae, &amp;c.</date>
+               </dateline>
+            </opener>
+            <p>Reſolved &amp;c.<lb/> THat this Houſe doth declare, That the force<g ref="char:EOLhyphen"/>able taking away of Mr. <hi>Francis Charlton</hi> out of the Chamber of Mr. <hi>Robert Charlton</hi> (a Member of this Houſe) and breaking open his Chamber whilſt he was attending the ſervice of the publick, is a breach of priviledge; And it is Ordered, That <hi>Will Taun<g ref="char:EOLhyphen"/>ton, Ioſeph Rogers</hi> and <hi>Andrew Bateley</hi> act<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs in the ſaid Buſineſſe be co<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> to the Serjeant at Armes attending this Houſe, and that they remaine in cuſto<g ref="char:EOLhyphen"/>dy untill the body of Mr. <hi>Francis Charlton</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deli<g ref="char:EOLhyphen"/>vered unto Mr. <hi>Robert Charlton</hi> or this Houſe take further Order.</p>
+            <closer>
+               <signed>Hen. Elſyng Cler. Par. Dom. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
